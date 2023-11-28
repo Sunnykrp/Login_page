@@ -15,8 +15,8 @@
     "body-parser": "^1.20.2",
     "express.js": "^1.0.0",
     "gh-pages": "^6.1.0",
-    "knex": "^0.95.15",
-    "nodemon": "^2.0.22",
+    "knex": "^3.0.1",
+    "nodemon": "^3.0.1",
     "pg": "^8.11.3"
   },
   "keywords": []
