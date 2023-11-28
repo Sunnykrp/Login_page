@@ -36,6 +36,7 @@ body{
     font-size: 80px;
     font-weight: 300;
     margin-bottom: 50px;
+    color:red;
 }
 
 input,
@@ -48,19 +49,19 @@ input,
     border-radius: 5px;
     background: rgba(255, 255, 255, 0.3);
     border: none;
-    color: #fff;
+    color: red;
     padding: 15px;
     transition: .5s;
     text-transform: capitalize;
 }
 
 input::placeholder{
-    color: #fff;
+    color:red;
 }
 
 input:focus,
 .submit-btn:hover{
-    background: #fff;
+    background: red;
     color: #000;
 }
 
